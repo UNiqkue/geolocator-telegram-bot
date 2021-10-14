@@ -2,7 +2,7 @@
 
 Telegram bot for finding objects near you.
 
-![image](pic.png)
+![image](https://github.com/UNiqkue/geolocator-telegram-bot/blob/main/image/pic.jpg)
 
 Первое сообщение содержит в себе приветствие и объясняет, как пользоваться ботом.
  
